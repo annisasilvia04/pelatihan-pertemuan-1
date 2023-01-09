@@ -1,1 +1,3 @@
-print("Hello world")
+a = ["BCI","Amikom","Yogyakarta"]
+
+print(*a)
